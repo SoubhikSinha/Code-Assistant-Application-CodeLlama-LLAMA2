@@ -1,0 +1,17 @@
+1. Clone repo : git clone https://github.com/SoubhikSinha/Code-Assistant-Application-CodeLlama-LLAMA2.git
+
+2. Create env : conda create --prefix ./venv python=3.11 -y
+
+3. Activate env : conda activate venv/
+
+4. Install dependencies : pip install -r requirements.txt
+
+5. Install Ollama
+
+6. After Ollama Installation, run the command >> ollama run CodeLlama
+
+7. Run the command >> ollama create codeguru -f modelfile
+
+8. Run the command >> ollama run codeguru
+
+9. 
