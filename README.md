@@ -1,4 +1,4 @@
-# # Code Assistant Application — Powered by CodeLlama (Llama2)
+# Code Assistant Application — Powered by CodeLlama (Llama2)
 
 
 ## Acknowledgement
