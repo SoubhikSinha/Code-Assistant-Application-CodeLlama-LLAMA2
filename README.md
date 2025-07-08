@@ -1,19 +1,20 @@
-# Code Assistant Application (CodeLlama-LLAMA2)
+# # Code Assistant Application — Powered by CodeLlama (Llama2)
 
 
 ## Acknowledgement
-I would like to extend my sincere thanks to  **[Krish Naik](https://github.com/krishnaik06)**  for his invaluable content and guidance, which helped me build this project. This project wouldn't have been possible without his educational resources.
+A heartfelt thanks to  **[Krish Naik](https://github.com/krishnaik06)** for his exceptional educational content and mentorship, which played a pivotal role in bringing this project to life. His resources laid the foundation for this AI-driven coding assistant.
 
 <br>
 
-## About the Project
-This project leverages **[Ollama's](https://ollama.com/) [CodeLlama](https://ollama.com/library/codellama), [LangChain](https://www.langchain.com/)**, and **[Gradio](https://www.gradio.app/)** to build an interactive AI-powered coding assistant. The core functionality revolves around generating responses based on user prompts, with a persistent history to ensure context-aware replies.
+## Project Overview
+This project is a **production-grade AI Coding Assistant**, engineered using [**Meta’s CodeLlama**](https://ollama.com/library/codellama), [**LangChain**](https://www.langchain.com/), and [**Gradio**](https://www.gradio.app/). It delivers an intelligent, context-aware coding experience that mimics real-time pair programming. The assistant not only generates accurate code but also maintains conversational memory to deliver consistent, relevant guidance across interactions.
 
-### Key Components :
+<br>
 
--   **Ollama's CodeLlama** : It provided the foundation for code generation, enabling AI-powered insights and suggestions.
--   **LangChain** : Used for enhancing prompt management and maintaining conversational memory, making interactions more coherent.
--   **Gradio** : A simple yet powerful interface for user interaction, allowing seamless prompt input and response display.
+## Key Technologies & Architecture
+-   **CodeLlama via Ollama** : Utilized for state-of-the-art code generation and natural language understanding. It powers the assistant’s ability to provide real-time, intelligent coding suggestions tailored to the user’s query.
+-   **LangChain** : Enables dynamic prompt management and **contextual memory**, ensuring that the assistant maintains coherence across multi-turn conversations.
+-   **Gradio** : Offers a minimal yet powerful web-based interface that allows developers to interact seamlessly with the assistant—send prompts, receive responses, and view conversation history—all in real time.
 
 <br>
 
