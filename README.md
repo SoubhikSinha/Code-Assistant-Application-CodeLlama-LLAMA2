@@ -23,7 +23,7 @@ This project is a **production-grade AI Coding Assistant**, engineered using [**
 ### **1. Clone the Repository**
 Clone the repository to your local machine :
 ```bash
-git clone https://github.com/SoubhikSinha/Code-Assistant-Application-CodeLlama-LLAMA2.git
+git clone https://github.com/SoubhikSinha/Code-Assistant-Application-CodeLlama-Llama2.git
 
 ```
 
